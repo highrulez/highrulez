@@ -4,7 +4,7 @@
 
 </p>
 
-<h1 align="center">Hi 👋, I'm Hairul</h1>
+<h1 align="center">Hi 👋, I'm Hairul Afizee</h1>
 <h3 align="center">Man who sees the world...</h3>
 
 ![octocat-1699546879281](https://github.com/highrulez/highrulez/assets/42662415/d694da17-f8cf-4f6b-a45e-753f2de57bb5)
