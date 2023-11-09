@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently study **at 42KL (LVL1 Core Programme)**
 
-- 💬 Ask me about **Network, Linux...**
+- 💬 Ask me about **Network, Linux, Web Development, PHP**
 
 - 📫 How to reach me **thearchitect@highrulez.com**
 
