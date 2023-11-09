@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hairul</h1>
 <h3 align="center">Man ho sees the world...</h3>
 
+![octocat-1699546879281](https://github.com/highrulez/highrulez/assets/42662415/d694da17-f8cf-4f6b-a45e-753f2de57bb5)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=highrulez&label=Profile%20views&color=0e75b6&style=flat" alt="highrulez" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=highrulez" alt="highrulez" /></a> </p>
