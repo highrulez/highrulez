@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **thearchitect@highrulez.com**
 
-- 📄 Know about my experiences [I have 35 years of experience in surviving on Earth.](I have 35 years of experience in surviving on Earth.)
+- 📄 Know about my experiences **I have 35 years of experience in surviving on Earth.**
 
 - ⚡ Fun fact **I think I am funny**
 
