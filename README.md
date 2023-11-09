@@ -24,7 +24,7 @@
 
 - 📄 Know about my experiences **I have 35 years of experience in surviving on Earth.**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I'm fluent in three languages: English, Emoji, and the subtle art of interpretive dance. Sometimes, words just can't capture my feelings as well as a well-timed twirl.**
 
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif"/>
 
