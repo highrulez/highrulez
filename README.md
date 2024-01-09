@@ -18,11 +18,11 @@
 
 - 🌱 I’m currently study **at 42KL (LVL1 Core Programme)**
 
-- 💬 Ask me about **Network, Linux, Web Development, PHP**
+- 💬 What I know? **Network, Linux, Web Development, PHP, Cybersecurity Certified**
 
-- 📫 How to reach me **thearchitect@highrulez.com**
+- 📫 How to reach me **askmet@highrulez.com**
 
-- 📄 Know about my experiences **I have 35 years of experience in surviving on Earth.**
+- 📄 Know about my experiences **I have 36 years of experience in surviving on Earth.**
 
 - ⚡ Fun fact **I have a black belt in procrastination. I was going to earn it years ago, but, you know, I kept putting it off.**
 
