@@ -20,7 +20,7 @@
 
 - 💬 What I know? **Network, Linux, Web Development, PHP, Cybersecurity Certified**
 
-- 📫 How to reach me **askmet@highrulez.com**
+- 📫 How to reach me **askme@highrulez.com**
 
 - 📄 Know about my experiences **I have 36 years of experience in surviving on Earth.**
 
