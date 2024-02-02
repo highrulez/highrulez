@@ -16,7 +16,7 @@
 
 <p align="left"> <a href="https://twitter.com/highrulez" target="blank"><img src="https://img.shields.io/twitter/follow/highrulez?logo=twitter&style=for-the-badge" alt="highrulez" /></a> </p>
 
-- 🌱 I’m currently study **at 42KL (LVL1 Core Programme)**
+- 🌱 I’m currently study **at 42KL (LVL2 Core Programme)**
 
 - 💬 What I know? **Network, Linux, Web Development, PHP, Cybersecurity Certified**
 
